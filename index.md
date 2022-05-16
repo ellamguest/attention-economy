@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## The Attention Economy
 
-You can use the [editor on GitHub](https://github.com/ellamguest/attention-economy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I've been working on subjects related to social media, online platforms, and big tech for years. I've worked on issues around market competition, content moderation, algorithimic curation. I think these issues are important, and something I want to continue working on. But given the piecemeal nature of my experience so far I don't have a consistent narrative that encompasses all of these issue in one. The more I've thought about it the more I think that the concept of the 'attention economy' might be the central metaphor I've been looking for.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So this is where I'll be working through my thoughts on the attention eocnomy, testing whether it is the correct model on which to build out my understanding of these interrelated issues.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ellamguest/attention-economy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My thoughts are currently messy, so my writing here will be messy for a while as well. My plan is ot use this space to work out my ideas in a public(-ish) format with some form of accountability. Eventually, the backlog should serve as a kind of research diary showing the development of my thoughts over time. I expect to get things wrong, and I plan to do that publically.
