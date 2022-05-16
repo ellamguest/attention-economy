@@ -5,3 +5,6 @@ I've been working on subjects related to social media, online platforms, and big
 So this is where I'll be working through my thoughts on the attention eocnomy, testing whether it is the correct model on which to build out my understanding of these interrelated issues.
 
 My thoughts are currently messy, so my writing here will be messy for a while as well. My plan is ot use this space to work out my ideas in a public(-ish) format with some form of accountability. Eventually, the backlog should serve as a kind of research diary showing the development of my thoughts over time. I expect to get things wrong, and I plan to do that publically.
+
+
+I'm keeping a [running list of questions and ideas](posts/questions.md).
