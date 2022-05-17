@@ -11,5 +11,4 @@ So this is where I'll be working through my thoughts on the attention economy, t
 
 My thoughts are currently messy, so my writing here will be messy for a while as well. My plan is to use this space to work out my ideas in a public(-ish) format with some form of accountability. Eventually, the backlog should serve as a kind of research diary showing the development of my thoughts over time. I expect to get things wrong, and I plan to do that publicly.
 
-
 I'm keeping a [running list of questions and ideas](posts/questions.md).
