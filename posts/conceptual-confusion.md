@@ -8,6 +8,8 @@ I have often grown frustrated as a social scientist researching social media tha
 
 I also agree with Munger that the first step is to sort out the conceptual confusion that we currently have. The project I'm working on here explores whether the 'attention economy' can serve as a useful model on which to gain conceptual clarity.
 
+Here's a [mindmap](https://miro.com/app/board/uXjVO0YyOII=/?share_link_id=653705587083) setting out my current thinking on these concepts.
+
 ## Problem set
 
 1) Market competition
