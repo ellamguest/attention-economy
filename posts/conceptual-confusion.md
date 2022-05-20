@@ -30,6 +30,8 @@ Whereas algorithmic amplification increase the breadth of user attention (e.g. t
 
 That then plays in to concerns around the effects of the content itself (e.g. teenagers being addicted to social media and it harming their mental health). This is still related to the issue of attention, but on a more philosophical level of what we spend our attention on rather than how much we spent or the opportunity costs of spending.
 
+Open question: how does user 'engagement tie in to this'. Often platforms aren't optimising for time spent exactly but for other metrics of engagement (i.e. number of likes, comments, shares). Need to flesh out how this variety of forms of attention fits in to the Wu framework of attentional brokerage.
+
 ## Framing
 
 1) What are we trading our attention for? [transactions and tradeoffs]

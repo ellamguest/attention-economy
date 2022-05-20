@@ -33,11 +33,6 @@ N.B. He doesn't explicitly reference the consumer welfare doctrine but my unders
 
 The creates what Wu calls a 'blind spot' to markets where companies give away their product for 'free'.
 
-
-*Add background on the SSNIPS test*
-
-Wu offers the "*Attentional* Small but Significant and Non-Transitory Increase in Price" or A-SSNIPS test.
-
 ### Substitution
 
 Wu then suggests that that concept of substitution can then be used to define the relevant market. His example here is Google Maps, Waze, and Apple Maps which are pretty clear cut substitutes for each other. Various national competition regulators considered the legality of Google's acquisition of Waze in 2013, but none blocked it. In February 2020 the FTC announced it would re-examine the acquisition but nothing seems to have come of that [cite, update?].
@@ -46,11 +41,25 @@ Here I am more skeptical than Wu - though still hopeful. If enforcers have diffi
 
 I believe it is the responsibility on domain experts with deep knowledge of these markets to create more useful definitions for enforcers to apply. And I suspect that delving deeper in to attention and time spent will be the way to do this.
 
+### Testing attentional substitutability
+
+A common test of substitutability during merger reviews is the Small but Significant and Non-Transitory Increase in Price (SSNIP) test
+
+> The SSNIP test aims to test substitution by determining whether a hypothetical monopolist could profit from a price increase of 5 percent to 10 percent held for at least one year, where it is assumed all other product prices remained constant. If sufficient buyers would likely switch to alternative products, making the price increase unprofitable, then the hypothetical market is not a relevant market for antitrust purposes. (page 797)
+
+Wu offers the "*Attentional* Small but Significant and Non-Transitory Increase in Price" or A-SSNIP test building on his concept of 'attentional price' by
+
+> [trying] to determine how consumers might react to a small but significant and non-transitory increase in undesired messages or advertising load for a given product. (page 797).
+
+Could also survey users to see if use of company A replaced some of the time they spent of company B. Or look at a companies internal documents to see who they as competitors.
+
 ## Two-sided markets
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Two-sided_market)"
+From [Wikipedia](https://en.wikipedia.org/wiki/Two-sided_market):
 
 > A two-sided network typically has two distinct user groups. Members of at least one group exhibit a preference regarding the number of users in the other group; these are called cross-side network effects. Each group's members may also have preferences regarding the number of users in their own group; these are called same-side network effects.
+
+Platform intermediaries act as 'attention brokers'.
 
 > Like a typical platform, the Attention Broker brings together two groups: the public, and attention seekers (like commercial advertisers, but also others, like politicians). It also, as is typical for platform intermediaries, lowers its price to one side of the market (the public) by making its content appear free, and makes its profit on the other side (advertisers).
 
@@ -71,6 +80,11 @@ The attention broker sets a price on either side of the market (often free to th
 > "attentional price" ... which "usually involves deciding how much advertising to combine with desirable content.' (page 789)
 
 I find this to be a really useful framing as it can tie in to the non-competition related themes. It is also known as the "advertising load"
+
+> One implication of constant spending of attention is that an Attention Broker always faces an incumbent. That is to say, attention is always being spent on something, and so the commercial entrant necessarily must displace something that already has some hold on the attention desired. (page 792)
+> ... Another form of market entry is also important: the conquest of attentional “greenfields.” Attentional greenfields, by my definition, refer to the time occupied by non-commercial providers. They are, in other words, the time and attention spent on friends, families, hobbies, taking walks, and so on.
+
+Two companies could be substitutable in the cash markets (e.g. Facebook and Google to advertisers) but not in the attention market (e.g. social vs search).
 
 ## Enforcement actions
 
@@ -122,6 +136,8 @@ Additionally we spent time on some things that aren't part of the attention mark
 
 To what extent, if any, does it matter that attention brokers are not intentionally charging users in time spent? This is often the way that they measure success [cite], but is it fundamentally the goal. A cases of Goodhart's law (probably not)? This is more a philosophical question I'm not particularly interested in but it is an argument I expect attention brokers to use against competition enforcers. But seems worthwhile to note that the intention of these companies wasn't to become attention brokers. They wanted consumers to view their goods without having to pay for them. The asset they then had to monetize was a portion of that viewing (to advertisers). Thus attention brokerage. It seems somewhat quibbly but I think it is an important distinction that attention brokers did not set out to be brokers, but that they are giving advertisers access to part of the value they were trying ot generate for themselves. E.g. they didn't set out to intermediate a two-sided market (as a health management work does) but chose that business model so as not to charge end-users for their service. Wu also notes that attention brokers sit between two separate markets, an attention market on one side and a cash market on the other. (page 788)
 
+>Also, as we’ve seen above it is typical for an Attention Bro- ker to capture an audience at an earlier stage and then later convert that audience into advertising revenue. (page 795)
+
 > The Broker is bartering something desirable (the “honey”) for attention, and then reselling the attention for cash.
 
 American antitrust agencies don't publish their analysis so we don't actually understanding their reasoning when they don't bring a case forward. (page 774). Does this mean we only have evidence on reasoning in those cases they bring forward? (E.g. the suits filed in court). By comparison, how much analysis does the CMA publish? Does it have to do it preemptively because of the greater investigatory powers (e.g. things only go before a judge if the company challenges a decision)
@@ -129,3 +145,7 @@ American antitrust agencies don't publish their analysis so we don't actually un
 Carving out social networking markets. (Originally) peer to peer networks (e.g. Facebook, Instagram, Snapchat). Broadcast networks (e.g. Twitter). Though difficult to determine based on form of ties because Facebook ties (friends) are undirected but Instagram and Twitter are both directed. Messaging (WhatsApp, Facebook Messenger, Signal). Community boards (Reddit).
 
 How should we think about online display advertising? Here Google or whoever is serving a more explicit brokerage role, but from the perspective markets there actually three stakeholder groups being brokered between. In the attention market their are the users. Then in the cash market there are the buyers (advertisers) and the sellers (the websites, who are themselves also brokering user attention). How to we balance the brokering done by the advertising intermediary vs the website? That then ties in to content moderation issues when a website is unhappy with the content of advertising being displayed.
+
+Is Amazon on attention broker? It was created to broker between buyers and sellers so is more traditional that social networking sites. But does attention still come in to play? How does it's growing ad business come in to play?
+
+What if substitutability is directional? E.g. Facebook offers a wider range of features than Instagram. So while I could imagine increased ad load on Instagram could push some users towards Facebook, I would expect for fewer people to be pushed in the opposite direction - from Facebook to Instagram. The issue is internal product differentiation. People use Facebook for a greater range of things than the do Instagram. As a personal example I only use Facebook to keep track of events that I'm invited to. Instagram doesn't offer that feature. I don't know of any other platforms that offer that feature which a critical mass of my friends also use. This means Facebook has a monopoly in event management (at least among my social group) but that Facebook and Instagram don't compete over the things I'm interested in.
