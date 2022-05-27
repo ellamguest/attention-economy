@@ -43,3 +43,5 @@ Open question: how does user 'engagement tie in to this'. Often platforms aren't
 Normative statements on where content moderation lines should be drawn. I certainly have my own views but think these should largely be determined by local norms on a jurisdiction basis (with a small caveat for maintaining human rights under authoritarian regimes).
 
 Discussion of technical feasibility. I do expect to delve in to that at a latter stage when scoping out policy thinking. And there may be some instances in which my conceptual model is already shaped by my current understanding of technical capabilities and limitations. But for the most part I want to keep my model building unbiased by current state of technical solutions. This should help ensure the model ages well and that it focuses on diagnostics rather than preemptive solutions (in line with my desire to stop playing whack-a-mole).
+
+Security. I'll probably very lightly touch on it around privacy issues but otherwise I don't think it's a unique feature or challenge of the attention economy.
