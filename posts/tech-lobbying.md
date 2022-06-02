@@ -6,10 +6,12 @@ Where are they right (that specific regulations would be harmful)? Where are the
 
 ## Privacy
 
-State Privacy and Security Coalition, Anton van Seventer
+State Privacy and Security Coalition, Anton van Seventer, DLA Piper
 TechNet, vice president of state policy and government relations, David Edmonson
 The Internet Association
 Politicom Law
+Future of Privacy Forum
+Computer and Communications Industry Association.
 
 Providing draft language for privacy bills to legislators. Is this standard lobbying practice?
 
@@ -27,3 +29,5 @@ U.S. Public Interest Research Group, Ed Mierzwinski
 Electronic Frontier Foundation
 
 IAPP
+
+ACLU
