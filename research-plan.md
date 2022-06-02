@@ -25,12 +25,12 @@ I'm still dealing with a lot of conceptual confusion so I'm reticent to make an 
 
 ## Schedule
 
-Wed May 25th - Open question dump update
-Fri May 27 - Competition draft 1
-Wed June 1 - Privacy draft 1
-Fri June 3 - Theory of Change draft 1 + Research plan update
-Wed June 8th - Content moderation draft 1
-Friday June 10th - Conceptual confusion update + research plan update
-Wed June 15th - Content harms
-Thu June 16th - Progress review
-Friday June 17th surgery
+- ~~Wed May 25th - Open question dump update~~
+- ~~Fri May 27 - Competition draft 1~~
+- ~~Wed June 1 - Privacy draft 1~~
+- Fri June 3 - Theory of Change draft 1 + Research plan update
+- Wed June 8th - Content moderation draft 1
+- Friday June 10th - Conceptual confusion update + research plan update
+- Wed June 15th - Content harms
+- Thu June 16th - Progress review
+- Friday June 17th surgery

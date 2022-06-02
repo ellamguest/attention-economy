@@ -34,9 +34,33 @@ Open question: how does user 'engagement tie in to this'. Often platforms aren't
 
 ## Framing
 
-1) What are we trading our attention for? [transactions and tradeoffs]
-2) How much attention are we giving? [mechanisms and opportunity costs]
-3) How does the content with give attention to effect us?
+1. What are we trading our attention for? [transactions and tradeoffs]
+2. How much attention are we giving? [mechanisms and opportunity costs]
+3. How does the content we give attention to effect us?
+
+Or another frame
+
+User attention is the resource ad-based platforms use to monetize their products. Drawing on user information they extract user attention on one side of the market and sell it to advertisers on the other.
+
+1. We need to update competition regulation to understand and address the new market dynamics of the attention economy. This should address:
+   - 'Free' products,
+   - Two-sided markets, and
+   - User data valuation and selling
+2. We need to enshrine privacy values in new legislation to address the trade-offs currently being decided by the attention economy. This must be joined up with competition regulation to address:
+    - Additional consumer protection constraints, and
+    - Approaches to valuing user data and users' rights to consent of selling it
+
+Then getting in to content moderation which ties to competition because it needs a free market to improve and to privacy because users should be able to dictate to what extent content should be personalised to them based on their data.
+
+## Why starting with competition?
+
+Because I believe it's the gateway to getting any kind of regulation done. This is because it builds on *structures that already exist* (i.e. competition law and agencies) whereas privacy and content concerns require *building new structures*. The existing competition structures need to be updated and reinterpreted to address these new challenges. But at least we have something to start working on.
+
+At a higher level, the fact that competition legislation exists and privacy legislation does not (at least in the US and until recently in all Western democracies) suggests where our core values and priorities lie.
+
+Actually to be fair their are some fundamental privacy values - to private property, copyright, etc. But these don't cover our *information*, or more specifically *information about us*. If anything, free speech doctrine has set limits on our rights to protect information about ourselves, but historically this has only been a problem for famous and powerful people (e.g. tabloid media, defamation and libel, publishing private correspondence.)
+
+I think that there is actually a fundamental, historical tensions between information privacy and free speech, that is being examined in a new light due to the attention economy's commercialization of user information. If there was a historical precedent of information privacy, targeted advertising and (to a lesser extent personalized algorithms) would not have become the norm. Instead attention brokers were from the outset able to consider user information a resource to exploit.
 
 ## Beyond the scope
 
@@ -45,3 +69,5 @@ Normative statements on where content moderation lines should be drawn. I certai
 Discussion of technical feasibility. I do expect to delve in to that at a latter stage when scoping out policy thinking. And there may be some instances in which my conceptual model is already shaped by my current understanding of technical capabilities and limitations. But for the most part I want to keep my model building unbiased by current state of technical solutions. This should help ensure the model ages well and that it focuses on diagnostics rather than preemptive solutions (in line with my desire to stop playing whack-a-mole).
 
 Security. I'll probably very lightly touch on it around privacy issues but otherwise I don't think it's a unique feature or challenge of the attention economy.
+
+Ethical of philosophical discussions around privacy rights, capitalism, market dynamics, etc. 

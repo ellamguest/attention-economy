@@ -2,7 +2,11 @@
 
 What does this have to do with the attention economy?
 
-My immediate intuition is that there are two central issues:
+**User information is the resource used to exploit user attention**. Platforms don't care about user data for the sake of the data. They don't care about your interests or demographics for the sake of curiosity. They care about those things because knowing more about you **better informs them how to capture your attention**.
+
+We can question to what extent probablistic predictions based on that data are actually accurate. Getting a better sense of that accuracy could be a way of reining in the targeted advertising ecosystem and addressing privacy trade-offs. But regardless of actually accuracy, this is how the attention economy works. It is how platforms develop their products, and how the monetise their products by selling user attention to advertisers. 
+
+My immediate intuition is that these are the mounting steps in the issue:
 
 1. Information technologies are able to capture unprecedented amounts of user/consumer data.
 2. Platforms use that data to develop their products, and in particular to personalize products to users.

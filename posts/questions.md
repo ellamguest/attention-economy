@@ -39,6 +39,8 @@ structure my overall thoughts. For now I've created a few separate headings that
 - How do SMCs define themselves to stakeholders - esp advertisers and shareholders?
   - Sources: advertising portals, shareholder meeting notes
 - What is the evidence on impact of mobile device screen time notifications? Do they lead users to reduce time on SM?
+- What is the best evidence of trailing policy and governance changes? (E.g. along the lines of [Stanford's RegLab](https://reglab.stanford.edu/about/))
+- What is the evidence on the actual effectiveness of targeted advertising? Cost benefit analyses on the privacy trade-offs? And would users pay them?
 
 ### Conceptual
 
