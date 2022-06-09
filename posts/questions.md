@@ -53,3 +53,7 @@ structure my overall thoughts. For now I've created a few separate headings that
 - How will things change with web 3?
 - What will the platforms look like in 10 years?
 - How will policy changes fail? (e.g. 1A block on transparency mandates)
+
+### Regulatory
+
+- How accurate are fears of regulatory ossification or unintended consequences? How often are decisions actually undone?

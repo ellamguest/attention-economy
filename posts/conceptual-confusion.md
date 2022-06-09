@@ -71,3 +71,11 @@ Discussion of technical feasibility. I do expect to delve in to that at a latter
 Security. I'll probably very lightly touch on it around privacy issues but otherwise I don't think it's a unique feature or challenge of the attention economy.
 
 Ethical of philosophical discussions around privacy rights, capitalism, market dynamics, etc. 
+
+## A note of terminology
+
+I'll probably use the term 'platforms' most often. This is because I want to capture more than 'social media companies' and often more than 'Big Tech'.
+
+Find a definition of platform that I like.
+
+I'll also use the term 'jurisdiction', where other's might use 'state' or 'nation' or 'country'. I want to avoid those nation-level words because often the regulations I'm talking about are supranational (i.e. the European Union) or subnational (i.e. US state-level). Jurisdiction is also more precise because it emphasizes a unit of legal authority - i.e. I'll talk a lot about different jurisdictions taking approaches on an issue based on their underlying values.
